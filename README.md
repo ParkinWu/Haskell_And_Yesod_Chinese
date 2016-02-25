@@ -6,7 +6,7 @@
 #目录
 
 ## 基础知识
-* 简介
+* [简介](https://github.com/ParkinWu/Haskell_And_Yesod_Chinese/blob/master/ch01.md)
 * Haskell
 * 基础
 * Shakespearean 模板
