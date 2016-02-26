@@ -8,7 +8,7 @@
 ## 基础知识
 * [简介](https://github.com/ParkinWu/Haskell_And_Yesod_Chinese/blob/master/ch01.md)
 * [Haskell](https://github.com/ParkinWu/Haskell_And_Yesod_Chinese/blob/master/ch02.md)
-* [基础](https://github.com/ParkinWu/Haskell_And_Yesod_Chinese/blob/maste    r/ch03.md)
+* [基础](https://github.com/ParkinWu/Haskell_And_Yesod_Chinese/blob/master/ch03.md)
 * Shakespearean 模板
 * 小工具
 * Yesod 类型类
