@@ -1,6 +1,6 @@
 
 #Haskell and Yesod的中文翻译，进行中
-本人水平有限，仅供参考...
+仅仅个人读书笔记，因本人英文能力有限，仅供参考...
 [原文链接](http://www.yesodweb.com/book)
 
 #目录
@@ -9,7 +9,7 @@
 * [简介](https://github.com/ParkinWu/Haskell_And_Yesod_Chinese/blob/master/ch01.md)
 * [Haskell](https://github.com/ParkinWu/Haskell_And_Yesod_Chinese/blob/master/ch02.md)
 * [基础](https://github.com/ParkinWu/Haskell_And_Yesod_Chinese/blob/master/ch03.md)
-* Shakespearean 模板
+* [Shakespearean 模板](https://github.com/ParkinWu/Haskell_And_Yesod_Chinese/blob/master/ch04.md)
 * 小工具
 * Yesod 类型类
 * 路由和句柄
