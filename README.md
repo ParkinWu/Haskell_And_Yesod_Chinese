@@ -10,7 +10,7 @@
 * [Haskell](https://github.com/ParkinWu/Haskell_And_Yesod_Chinese/blob/master/ch02.md)
 * [基础](https://github.com/ParkinWu/Haskell_And_Yesod_Chinese/blob/master/ch03.md)
 * [Shakespearean 模板](https://github.com/ParkinWu/Haskell_And_Yesod_Chinese/blob/master/ch04.md)
-* 小工具
+* [组件](https://github.com/ParkinWu/Haskell_And_Yesod_Chinese/blob/master/ch05.md)
 * Yesod 类型类
 * 路由和句柄
 * 表单
